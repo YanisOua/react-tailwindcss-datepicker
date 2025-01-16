@@ -1,4 +1,4 @@
-import { useCallback, useContext } from "react";
+import React, { useCallback, useContext } from "react";
 
 import { BG_COLOR, BORDER_COLOR, RING_COLOR } from "../constants";
 import DatepickerContext from "../contexts/DatepickerContext";

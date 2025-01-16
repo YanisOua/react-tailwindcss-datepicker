@@ -1,4 +1,4 @@
-import { memo, ReactNode, useCallback, useContext, useMemo } from "react";
+import React, { memo, ReactNode, useCallback, useContext, useMemo } from "react";
 
 import { TEXT_COLOR } from "../constants";
 import DEFAULT_SHORTCUTS from "../constants/shortcuts";
